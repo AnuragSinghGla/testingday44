@@ -1,0 +1,17 @@
+F:\coforge\day-45\ConsoleAppExerciseTesting\ClassLibraryTest\bin\Debug\ClassLibraryTest.dll
+F:\coforge\day-45\ConsoleAppExerciseTesting\ClassLibraryTest\bin\Debug\ClassLibraryTest.pdb
+F:\coforge\day-45\ConsoleAppExerciseTesting\ClassLibraryTest\obj\Debug\ClassLibraryTest.csprojAssemblyReference.cache
+F:\coforge\day-45\ConsoleAppExerciseTesting\ClassLibraryTest\obj\Debug\ClassLibraryTest.csproj.CoreCompileInputs.cache
+F:\coforge\day-45\ConsoleAppExerciseTesting\ClassLibraryTest\obj\Debug\ClassLibraryTest.dll
+F:\coforge\day-45\ConsoleAppExerciseTesting\ClassLibraryTest\obj\Debug\ClassLibraryTest.pdb
+F:\coforge\day-45\ConsoleAppExerciseTesting\ClassLibraryTest\bin\Debug\ConsoleAppExerciseTesting.exe
+F:\coforge\day-45\ConsoleAppExerciseTesting\ClassLibraryTest\bin\Debug\nunit.engine.api.dll
+F:\coforge\day-45\ConsoleAppExerciseTesting\ClassLibraryTest\bin\Debug\nunit.engine.core.dll
+F:\coforge\day-45\ConsoleAppExerciseTesting\ClassLibraryTest\bin\Debug\nunit.engine.dll
+F:\coforge\day-45\ConsoleAppExerciseTesting\ClassLibraryTest\bin\Debug\NUnit3.TestAdapter.dll
+F:\coforge\day-45\ConsoleAppExerciseTesting\ClassLibraryTest\bin\Debug\nunit.framework.dll
+F:\coforge\day-45\ConsoleAppExerciseTesting\ClassLibraryTest\bin\Debug\ConsoleAppExerciseTesting.pdb
+F:\coforge\day-45\ConsoleAppExerciseTesting\ClassLibraryTest\bin\Debug\ConsoleAppExerciseTesting.exe.config
+F:\coforge\day-45\ConsoleAppExerciseTesting\ClassLibraryTest\bin\Debug\NUnit3.TestAdapter.pdb
+F:\coforge\day-45\ConsoleAppExerciseTesting\ClassLibraryTest\bin\Debug\nunit.framework.xml
+F:\coforge\day-45\ConsoleAppExerciseTesting\ClassLibraryTest\obj\Debug\ClassLibraryTest.csproj.CopyComplete
